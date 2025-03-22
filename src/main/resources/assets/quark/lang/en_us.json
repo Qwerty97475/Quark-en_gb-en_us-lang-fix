@@ -107,7 +107,7 @@
 	"_quark.config.tl_note4": "Any non localized entries will revert to the default english values in the config",
 	"_quark.config.tl_note5": "This localization is only for the ingame viewer, and will not affect the config file. Additional .descs can be added at will",
 	"_quark.config.tl_note6": "Descriptions can be removed by translating them to an empty key, if desired. Use \n to split lines",
-	"_quark.config.tl_note7": "See below for examples (with the key prefixed by _) so it doesnt load ingame: ",
+	"_quark.config.tl_note7": "See below for examples (with the key prefixed by _) so it doesn't load ingame: ",
 
 	"_quark.config.automation.feeding_trough.name": "Test 100",
 	"_quark.config.automation.feeding_trough.desc": "Yeah I'm testing\nWith multiple lines too!",
